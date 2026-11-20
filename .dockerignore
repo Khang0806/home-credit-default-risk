@@ -1,0 +1,6 @@
+data/
+*.ipynb
+tests/
+app/
+.git/
+__pycache__/
