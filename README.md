@@ -1,5 +1,7 @@
 # Home Credit Default Risk — LightGBM + deployable API
 
+**Live demo:** https://khang-home-credit.streamlit.app
+
 Predicting loan default probability using the [Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk) dataset (Kaggle),
 then serving a form-friendly version of the model as a FastAPI service with per-prediction SHAP explanations.
 
